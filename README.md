@@ -2,6 +2,20 @@
 
 This repository contains scripts, models and other QGIS resources that can be used from the [QGIS Resource Sharing](https://plugins.qgis.org/plugins/qgis_resource_sharing/) plugin
 
+## Resources
+
+### Models
+
+1. *Spatial Homogeniety Test*: Processing model to implement the workflow described in [Spatial Homogeneity Testing of Raingauge Data with Advanced QGIS Expressions](https://spatialthoughts.com/2020/11/26/spatial-homogeneity-testing-qgis/)
+2. *Split Polygons*
+
+### Scripts
+
+1. Constrained K-Means Clustering: Processing script for [K-Means Clustering with Equal Sized Clusters in QGIS](https://spatialthoughts.com/2021/01/31/equal-sized-kmeans-qgis/)
+2. Equidistance Buffer: Processing script for [Approximating Geodesic Buffers in QGIS](https://spatialthoughts.com/2019/04/05/geodesic-buffers-in-qgis/)
+3. Snap to Roads: Processing script for [Snapping GPS tracks to Roads using QGIS and OSRM](https://spatialthoughts.com/2020/02/22/snap-to-roads-qgis-and-osrm/)
+
+
 ## Installation
 
 1. Install the [QGIS Resource Sharing](https://plugins.qgis.org/plugins/qgis_resource_sharing/) plugin. 
@@ -20,16 +34,3 @@ This repository contains scripts, models and other QGIS resources that can be us
 5. Once installed, you will see new *Models* and *Scripts* in your Processing Toolbox.
   <img width="50%" alt="resource_sharing5" src="https://user-images.githubusercontent.com/5227506/121691179-54438f00-cae4-11eb-8452-5bd6631662aa.png">
 
-
-## Resources
-
-### Models
-
-1. *Spatial Homogeniety Test*: Processing model to implement the workflow described in [Spatial Homogeneity Testing of Raingauge Data with Advanced QGIS Expressions](https://spatialthoughts.com/2020/11/26/spatial-homogeneity-testing-qgis/)
-2. *Split Polygons*
-
-### Scripts
-
-1. Constrained K-Means Clustering: Processing script for [K-Means Clustering with Equal Sized Clusters in QGIS](https://spatialthoughts.com/2021/01/31/equal-sized-kmeans-qgis/)
-2. Equidistance Buffer: Processing script for [Approximating Geodesic Buffers in QGIS](https://spatialthoughts.com/2019/04/05/geodesic-buffers-in-qgis/)
-3. Snap to Roads: Processing script for [Snapping GPS tracks to Roads using QGIS and OSRM](https://spatialthoughts.com/2020/02/22/snap-to-roads-qgis-and-osrm/)
