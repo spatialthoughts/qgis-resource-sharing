@@ -447,7 +447,7 @@
   <Option name="help"/>
   <Option name="modelVariables"/>
   <Option name="model_group" type="QString" value=""/>
-  <Option name="model_name" type="QString" value="spatial_homogeneity_test"/>
+  <Option name="model_name" type="QString" value="Spatial Homogeniety Test"/>
   <Option name="parameterDefinitions" type="Map">
     <Option name="AcceptableDeviationmm" type="Map">
       <Option name="data_type" type="int" value="0"/>
