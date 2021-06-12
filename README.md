@@ -6,8 +6,8 @@ This repository contains scripts, models and other QGIS resources that can be us
 
 ### Models
 
-1. *Spatial Homogeniety Test*: Processing model to implement the workflow described in [Spatial Homogeneity Testing of Raingauge Data with Advanced QGIS Expressions](https://spatialthoughts.com/2020/11/26/spatial-homogeneity-testing-qgis/)
-2. *Split Polygons*
+1. *Spatial Homogeniety Test*: Processing model for [Spatial Homogeneity Testing of Raingauge Data with Advanced QGIS Expressions](https://spatialthoughts.com/2020/11/26/spatial-homogeneity-testing-qgis/)
+2. *Split Polygons*: Processing model for [Split Polygons into Equal Parts using QGIS](https://spatialthoughts.com/2021/06/12/split-polygons-qgis/)
 
 ### Scripts
 
