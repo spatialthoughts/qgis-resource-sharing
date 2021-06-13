@@ -14,7 +14,7 @@ This repository contains scripts, models and other QGIS resources that can be us
 1. Constrained K-Means Clustering: Processing script for [K-Means Clustering with Equal Sized Clusters in QGIS](https://spatialthoughts.com/2021/01/31/equal-sized-kmeans-qgis/)
 2. Equidistance Buffer: Processing script for [Approximating Geodesic Buffers in QGIS](https://spatialthoughts.com/2019/04/05/geodesic-buffers-in-qgis/)
 3. Snap to Roads: Processing script for [Snapping GPS tracks to Roads using QGIS and OSRM](https://spatialthoughts.com/2020/02/22/snap-to-roads-qgis-and-osrm/)
-
+4. Attribute Iterator: Processing script to iterate over all attributes of a vector layer and create an Attribute Index.
 
 ## Installation
 
