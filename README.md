@@ -17,7 +17,9 @@ This repository contains scripts, models and other QGIS resources that can be us
 2. Equidistance Buffer: Processing script for [Approximating Geodesic Buffers in QGIS](https://spatialthoughts.com/2019/04/05/geodesic-buffers-in-qgis/)
 3. Snap to Roads: Processing script for [Snapping GPS tracks to Roads using QGIS and OSRM](https://spatialthoughts.com/2020/02/22/snap-to-roads-qgis-and-osrm/)
 4. Attribute Iterator: Processing script to iterate over all attributes of a vector layer and create an Attribute Index.
+5. Conditional Spatial Join: Processing script to do a spatial join and aggregate features based on a condition.
 
+   
 ## Installation
 
 1. Install the [QGIS Resource Sharing](https://plugins.qgis.org/plugins/qgis_resource_sharing/) plugin. 
