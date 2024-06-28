@@ -6,11 +6,15 @@ This repository contains scripts, models and other QGIS resources that can be us
 
 ### Models
 
+[See all models](https://github.com/spatialthoughts/qgis-resource-sharing/tree/main/collections/spatialthoughts/models)
+
 1. *Spatial Homogeniety Test*: Processing model for [Spatial Homogeneity Testing of Raingauge Data with Advanced QGIS Expressions](https://spatialthoughts.com/2020/11/26/spatial-homogeneity-testing-qgis/)
 2. *Split Polygons*: Processing model for [Split Polygons into Equal Parts using QGIS](https://spatialthoughts.com/2021/06/12/split-polygons-qgis/)
 3. *Connect to Nearest Node*: Processing model demonstrating a solution for [Spatial Analysis Challenge: Connect Buildings to Nearest Point on the Road](https://www.youtube.com/watch?v=7V8-JaiABTQ).
 4. *Smooth Polygons*: Processing model to smooth voronoi polygons.
 5. *Fix Transects*: Processing model demonstration a solution for [Spatial Analysis Challenge: Fix Line Transects](https://www.youtube.com/watch?v=RRAT_PIow4Q)
+
+[See all scripts](https://github.com/spatialthoughts/qgis-resource-sharing/tree/main/collections/spatialthoughts/scripts)
 
 ### Scripts
 
