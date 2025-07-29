@@ -14,9 +14,9 @@ This repository contains scripts, models and other QGIS resources that can be us
 4. *Smooth Polygons*: Processing model to smooth voronoi polygons.
 5. *Fix Transects*: Processing model demonstration a solution for [Spatial Analysis Challenge: Fix Line Transects](https://www.youtube.com/watch?v=RRAT_PIow4Q)
 
-[See all scripts](https://github.com/spatialthoughts/qgis-resource-sharing/tree/main/collections/spatialthoughts/scripts)
+[See all scripts](https://github.com/spatialthoughts/qgis-resource-sharing/tree/main/collections/spatialthoughts/processing)
 
-### Scripts
+### Processing Scripts
 
 1. Constrained K-Means Clustering: Processing script for [K-Means Clustering with Equal Sized Clusters in QGIS](https://spatialthoughts.com/2021/01/31/equal-sized-kmeans-qgis/)
 2. Equidistance Buffer: Processing script for [Approximating Geodesic Buffers in QGIS](https://spatialthoughts.com/2019/04/05/geodesic-buffers-in-qgis/)
