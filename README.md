@@ -23,7 +23,7 @@ This repository contains scripts, models and other QGIS resources that can be us
 3. Snap to Roads: Processing script for [Snapping GPS tracks to Roads using QGIS and OSRM](https://spatialthoughts.com/2020/02/22/snap-to-roads-qgis-and-osrm/)
 4. Attribute Iterator: Processing script to iterate over all attributes of a vector layer and create an Attribute Index.
 5. Conditional Spatial Join: Processing script to do a spatial join and aggregate features based on a condition. [video explanation](https://www.youtube.com/watch?v=qpiFT8UHhwM)
-
+6. Recursive Neighbor Selection: Processing script to select features contiguous to the selected feature(s)
    
 ## Installation
 
